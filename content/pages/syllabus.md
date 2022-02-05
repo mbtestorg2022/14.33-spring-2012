@@ -24,13 +24,66 @@ Students may find it useful to take at least one economics field course and perf
 Requirements
 ------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and participation | 10 |
-| Attendance at required office hours/ completion of assigned tasks | 15 |
-| Assignment and short paper | 20 |
-| Two presentations | 10 |
-| Proposal and two drafts for main project | 45 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance at required office hours/ completion of assigned tasks
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment and short paper
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Proposal and two drafts for main project
+{{< tdclose >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There will be no exams, and nothing will be due during finals week.
 

@@ -4,26 +4,252 @@ title: Calendar
 uid: 56416b2e-289b-1e91-6277-1af7e2563e31
 ---
 
-| SES # | ACTIVITES | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to course | &nbsp; |
-| 2 | Short paper topics | Assignment due |
-| 3 | Using Stata® (optional) | &nbsp; |
-| 4 | Writing an economics paper | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Using the library {{< br >}}{{< br >}} [Library resources for research and communication in economics]({{< baseurl >}}/pages/study-materials) {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | TBD | Short paper due |
-| 7 | Preliminary presentations+ | &nbsp; |
-| 8 | Preliminary presentations+ (cont.) | &nbsp; |
-| 9–10 | Required office hours with professor | &nbsp; |
-| 11 | Three required office hours with TAs (through session 13) |  {{< br >}}{{< br >}} Draft of intro, results, conclusion due {{< br >}}{{< br >}} Short rewrite due {{< br >}}{{< br >}}  |
-| 12 | TBD | Main paper due |
-| 13 | Presentations\* | &nbsp; |
-| 14 | Presentations\* (cont.) | &nbsp; |
-| 15 | Presentations\* (cont.) | &nbsp; |
-| 16 | Presentations\* (cont.) | &nbsp; |
-| 17 | Presentations\* (cont.) | &nbsp; |
-| 18 | Presentations\* (cont.) | &nbsp; |
-| 19 | Course wrap-up | Main rewrite due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper topics
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Using Stata® (optional)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Writing an economics paper
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Using the library
+
+[Library resources for research and communication in economics]({{< baseurl >}}/pages/study-materials)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+TBD
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminary presentations+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminary presentations+ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–10
+{{< tdclose >}}
+{{< tdopen >}}
+Required office hours with professor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Three required office hours with TAs (through session 13)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Draft of intro, results, conclusion due
+
+Short rewrite due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+TBD
+{{< tdclose >}}
+{{< tdopen >}}
+Main paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations\*
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations\* (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations\* (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations\* (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations\* (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations\* (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Course wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+Main rewrite due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 +You will be required to attend one of the two preliminary presentation days.
 
