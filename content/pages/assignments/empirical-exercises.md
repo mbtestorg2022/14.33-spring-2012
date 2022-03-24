@@ -52,7 +52,7 @@ Stata® FILES
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recovery Data Manual (PDF)](https://www.runtime.org/howto_datarecovery.pdf)
+[Recovery Data Manual (PDF)](https://www.runtime.org/howto_datarecovery.pdf)
 
 [Congressional Committees and Elections Codebook (PDF)]({{< baseurl >}}/resources/mit14_33s12_committecodbok)
 
