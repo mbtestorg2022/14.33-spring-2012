@@ -14,10 +14,10 @@ Prerequisites
 
 All students will be expected to have successfully completed:
 
-*   [_14.30 Introduction to Statistical Methods in Economics_](/courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009/)
-*   [_14.32 Econometrics_](/courses/14-32-econometrics-spring-2007/)
+*   [_14.30 Introduction to Statistical Methods in Economics_](/courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009)
+*   [_14.32 Econometrics_](/courses/14-32-econometrics-spring-2007)
 *   [_14.01 Principles of Microeconomics_](/courses/14-01-principles-of-microeconomics-fall-2007/)
-*   [_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014/)
+*   [_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014)
 
 Students may find it useful to take at least one economics field course and perform a UROP (Undergraduate Research Opportunity) before taking this course, but these are not requirements.
 
